@@ -1,7 +1,7 @@
 # 🍽️ Daharane – Aplikasi Pemesanan Makanan Digital
 
 <p align="center">
-  <img src="public/assets/logo.png" width="200" alt="Daharane Logo">
+  <img src="logo_fix.png" width="200" alt="Daharane Logo">
 </p>
 
 **Daharane** adalah aplikasi web berbasis Laravel yang memungkinkan pelanggan memesan makanan dari menu restoran menggunakan QR Code di meja mereka. Admin dapat mengelola daftar menu, memantau dan memproses pesanan, serta melakukan konfirmasi pembayaran dan penyelesaian.
