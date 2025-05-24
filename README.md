@@ -23,7 +23,7 @@
 - Login admin
 - Dashboard (modifikasi menu, detail pesanan, log out)
 - Modifikasi Menu
-- Edit, delete, tamabahkan menu
+- Edit, delete, tambahkan menu
 - Menampilkan semua pesanan beserta status pesanannya
 - Melakukan konfirmasi pembayaran
 - Melakukan penyelesaian pesanan
